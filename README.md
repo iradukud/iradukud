@@ -1,5 +1,6 @@
-<h1 align="center">David Iradukunda</h1>
-
+<a>
+<img src="assests\profile header.JPG" width="100%" >
+<a>
 
 <p align="center">
   <a href="https://daviradprofile.netlify.app" target="_blank">

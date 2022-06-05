@@ -1,5 +1,11 @@
-<h1 align="center" >David Iradukunda</h1>
+<h1 align="center" >Hi! I'm <b>David Iradukunda<b>! I'm a full-stack software engineer @100Devs.</h1>
 
+  <p align="left">
+  I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that     
+  suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.
+  </p>
+  
+  
 <p align="center">
   <a href="https://daviradprofile.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>

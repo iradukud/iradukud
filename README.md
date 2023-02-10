@@ -23,9 +23,11 @@
 
 <!-- quick bio -->
 <p align="center">
-  I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent,
+  I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. 
   <br/> 
-  responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.
+  I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to 
+  <br/> 
+  solve problems through innovative solutions and collaboration.
 </p>
 
 ---
@@ -233,10 +235,8 @@
 
 <h1 align="center">Statistics</h1>
 <p align="center">
-  <!-- stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iradukud&show_icons=true&locale=en" alt="iradukud"/>
-  <!-- top skills -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iradukud&show_icons=true&locale=en&layout=compact" alt="iradukud" />
   <!-- streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iradukud&" alt="iradukud" />
+  <!-- top skills -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iradukud&show_icons=true&locale=en&layout=compact" alt="iradukud" />
 </p>

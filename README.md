@@ -234,7 +234,7 @@
 ---
 
 <h1 align="center">Statistics</h1>
-<p>
+<p align="center">
   <!-- streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iradukud&" alt="iradukud">
   <!-- top skills -->

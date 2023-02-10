@@ -1,34 +1,34 @@
 <!-- profile banner -->
-<img src="assests\imgs\profile_header.jpg"/>
+<img src="assests\imgs\profile_header.jpg">
 
 <!-- socials -->
-<p align="center">
+<div align="center">
   <!-- link to personal website -->
   <a href="https://daviradprofile.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=wordpress&logo-color=white">
   </a>
   <!-- link to linkedin profile-->
   <a href="https://www.linkedin.com/in/david-iradukunda-6b5745231" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white">
   </a>
   <!-- link to twitter account -->
   <a href="https://twitter.com/code_iradukunda" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white">
   </a>
   <!-- link to resume copy -->
   <a href="https://daviradprofile.netlify.app/assets/resume/DavidIradukunda-Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=cdf998&style=plastic&logo=about.me&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=cdf998&style=plastic&logo=about.me&logo-color=white">
   </a>
-</p>
+</div>
 
 <!-- quick bio -->
-<p align="center">
+<div align="center">
   I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. 
   <br/> 
   I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to 
   <br/> 
   solve problems through innovative solutions and collaboration.
-</p>
+</div>
 
 ---
     
@@ -45,28 +45,28 @@
         <h3 align="center">Meals on Demand</h3>
         <br/>
         <!-- link to project -->
-        <a target="_blank" href="https://meals-on-demand.onrender.com">
+        <div target="_blank" href="https://meals-on-demand.onrender.com">
             <!-- video demo -->
             <img src="assests\imgs\mod_demo.gif" width="100%" alt="Meal on Demand website demo" controls>
-        </a>
+        </div>
         <br/>
         <!-- text container for link -->
-        <p align="center">
+        <div align="center">
           <!-- link to github repo -->
           <a href="https://github.com/iradukud/Meals-on-Demand.git" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
           </a>  
           <!-- link to website -->
           <a href="https://meals-on-demand.onrender.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
           </a>
-        </p>
+        </div>
         <!-- text container for description -->
-        <p align="center">
+        <div align="center">
           <strong>Node.js, & Express.js, MongoBD, Bootstrap, Rest API </strong>
           <br/>
           Platform to help store all your favourite recipes! All just fingertips away!
-        </p>
+        </div>
       </td>
       <!-- second column -->
       <td width="50%" valign="top">
@@ -76,24 +76,24 @@
         <!-- link to project -->
         <a target="_blank" href="">
           <!-- video demo -->
-          <img src="" width="100%"  alt=""/>
+          <img src="" width="100%"  alt="">
         </a>
         <br/>
         <!-- link to website -->
-        <p align="center">
+        <div align="center">
           <!-- link to github repo -->
           <a href="" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
           </a>
           <!-- link to website -->
           <a href="" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
+          </div>
         </p>
         <!-- text container for description -->
-        <p align="center">
+        <div align="center">
           <strong></strong>
-        </p>
+        </div>
     </td>
   </tr>
   <!-- second row -->
@@ -106,24 +106,24 @@
       <!-- link to project -->
       <a target="_blank" href="">
         <!-- video demo -->
-        <img src="" width="100%"  alt=""/>
+        <img src="" width="100%"  alt="">
       </a>
       <br/>
       <!-- link to website -->
-      <p align="center">
+      <div align="center">
         <!-- link to github repo -->
         <a href="" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
         </a>
         <!-- link to website -->
         <a href="" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
         </a>
-      </p>
+      </div>
       <!-- text container for description -->
-      <p align="center">
+      <div align="center">
         <strong></strong>
-      </p>
+      </div>
     </td>
     <!-- second column -->
     <td width="50%" valign="top">
@@ -137,20 +137,20 @@
       </a>
       <br/>
       <!-- link to website -->
-      <p align="center">
+      <div align="center">
         <!-- link to github repo -->
         <a href="" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
         </a>
         <!-- link to website -->
         <a href="" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
         </a>
-      </p>
+      </div>
       <!-- text container for description -->
-      <p align="center">
+      <div align="center">
         <strong></strong>
-      </p>
+      </div>
     </td>
   </tbody>
 </table>
@@ -158,7 +158,7 @@
 ---
 
 <h1 align="center">Technologies</h1>
-<p align="center"> 
+<div align="center"> 
   <!-- mongodb icon -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -229,7 +229,7 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40">
   </a>  
-</p>
+</div>
 
 ---
 

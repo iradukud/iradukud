@@ -92,7 +92,8 @@
         </p>
         <!-- text container for description -->
         <div align="center">
-          <strong></strong>
+          <strong>Node.js, & Express.js, MongoBD, Bootstrap</strong>
+          Platform that always user to share their opinions and thoughts
         </div>
     </td>
   </tr>

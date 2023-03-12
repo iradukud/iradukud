@@ -47,7 +47,7 @@
         <!-- link to project -->
         <div target="_blank" href="https://meals-on-demand.onrender.com">
             <!-- video demo -->
-            <img src="assests\imgs\mod_demo.gif" width="100%" alt="Meal on Demand website demo" controls>
+            <img src="assests\imgs\mod_demo.gif" width="100%" alt="Meal on Demand website demo">
         </div>
         <br/>
         <!-- text container for link -->
@@ -71,22 +71,22 @@
       <!-- second column -->
       <td width="50%" valign="top">
         <!-- project name -->
-        <h3 align="center">PJ2</h3>
+        <h3 align="center">Hot Takes</h3>
         <br/>
         <!-- link to project -->
-        <a target="_blank" href="">
+        <a target="_blank" href="https://hot-takes-d3el.onrender.com">
           <!-- video demo -->
-          <img src="" width="100%"  alt="">
+          <img src="assests\imgs\ht_demo.gif" width="100%"  alt="Hot Takes website demo">
         </a>
         <br/>
         <!-- link to website -->
         <div align="center">
           <!-- link to github repo -->
-          <a href="" target="_blank">
+          <a href="https://github.com/iradukud/Hot-Takes" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
           </a>
           <!-- link to website -->
-          <a href="" target="_blank">
+          <a href="https://hot-takes-d3el.onrender.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
           </div>
         </p>

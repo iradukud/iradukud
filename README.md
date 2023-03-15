@@ -88,11 +88,12 @@
           <!-- link to website -->
           <a href="https://hot-takes-d3el.onrender.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
-          </div>
-        </p>
+          </a>
+        </div>
         <!-- text container for description -->
         <div align="center">
-          <strong>Node.js, & Express.js, MongoBD, Bootstrap</strong>
+          <strong>Node.js, & Express.js, MongoBD, Bootstrap, jQuery</strong>
+          <br/>
           Platform that always user to share their opinions and thoughts
         </div>
     </td>
@@ -129,28 +130,30 @@
     <!-- second column -->
     <td width="50%" valign="top">
       <!-- project name -->
-      <h3 align="center">PJ4</h3>
+      <h3 align="center">Manchester City - Shuffle-Puzzle</h3>
       <br/>
       <!-- link to project -->
-      <a target="_blank" href="">
+      <a target="_blank" href="https://manchester-city-shuffle-puzzle.onrender.com">
         <!-- video demo -->
-        <img src="" width="100%"  alt=""/>
+        <img src="assests\imgs\mci_puzzle_demo.gif" width="100%"  alt="Man city shuffle puzzle demo">
       </a>
       <br/>
       <!-- link to website -->
       <div align="center">
         <!-- link to github repo -->
-        <a href="" target="_blank">
+        <a href="https://github.com/iradukud/Shuffle-Puzzle" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
         </a>
         <!-- link to website -->
-        <a href="" target="_blank">
+        <a href="https://manchester-city-shuffle-puzzle.onrender.com" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
         </a>
       </div>
       <!-- text container for description -->
       <div align="center">
-        <strong></strong>
+        <strong>React, HTML, CSS, Javascript</strong>
+        <br/>
+        Complete the sliding puzzle game of the Manchester City badge with the fewest steps. 
       </div>
     </td>
   </tbody>

@@ -103,28 +103,30 @@
     <!-- first column -->
     <td width="50%" valign="top">
       <!-- project name -->
-      <h3 align="center">PJ3</h3>
+      <h3 align="center">Hitlist</h3>
       <br/>
       <!-- link to project -->
-      <a target="_blank" href="">
+      <a target="_blank" href="https://hitlist-7ngm.onrender.com">
         <!-- video demo -->
-        <img src="" width="100%"  alt="">
+        <img src="assests\imgs\hitlist_demo.gif" width="100%"  alt="Hitlist website demo">
       </a>
       <br/>
       <!-- link to website -->
       <div align="center">
         <!-- link to github repo -->
-        <a href="" target="_blank">
+        <a href="https://github.com/iradukud/hitlist" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
         </a>
         <!-- link to website -->
-        <a href="" target="_blank">
+        <a href="https://hitlist-7ngm.onrender.com" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
         </a>
       </div>
       <!-- text container for description -->
       <div align="center">
-        <strong></strong>
+        <strong>MongoDB, Express, React, Node</strong>
+        <br/>
+        Platform that helps keep track of your tasks and goals
       </div>
     </td>
     <!-- second column -->

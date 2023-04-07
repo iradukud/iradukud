@@ -124,7 +124,7 @@
       </div>
       <!-- text container for description -->
       <div align="center">
-        <strong>MongoDB, Express, React, Node</strong>
+        <strong>React, Javascript, CSS, HTML</strong>
         <br/>
         Platform that helps keep track of your tasks and goals
       </div>
